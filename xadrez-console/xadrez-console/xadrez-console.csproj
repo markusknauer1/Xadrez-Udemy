@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="anotações\Xadrez - Criando uma exceção personalizada de tabuleiro.cs" />
     <Compile Include="anotações\Xadrez - Começando a colocar peças no tabuleiro.cs" />
     <Compile Include="anotações\Xadrez - Começando a implementar o tabuleiro.cs" />
     <Compile Include="anotações\Xadrez - Começando a implementar um método que imprime o tabuleiro.cs" />
@@ -53,6 +54,7 @@
     <Compile Include="tabuleiro\Peca.cs" />
     <Compile Include="tabuleiro\Posicao.cs" />
     <Compile Include="tabuleiro\Tabuleiro.cs" />
+    <Compile Include="tabuleiro\TabuleiroException.cs" />
     <Compile Include="Tela.cs" />
     <Compile Include="xadrez\Bispo.cs" />
     <Compile Include="xadrez\Cavalo.cs" />
