@@ -18,5 +18,10 @@ namespace tabuleiro
         {
             return pecas[linha, coluna];
         }
+        public void colocarPeca(Peca p, Posicao pos) // método que impôe a posição das "peças" do xadrez
+        {
+            pecas[pos.linha, pos.coluna] = p;
+            p.posicao = pos;
+        }
     }
 }

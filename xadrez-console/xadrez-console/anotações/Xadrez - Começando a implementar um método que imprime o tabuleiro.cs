@@ -8,8 +8,4 @@
         *   encapsulamento(método de acesso a um elemento da matriz)
     
     -   Commit:"COMEÇANDO A IMPLEMENTAR UM METODO QUE IMPRIME O TABULEIRO"
-
-
-    
- 
  */
