@@ -1,0 +1,8 @@
+C:\www\Udemy\CursoUdemy\Xadrez-Udemy\xadrez-console\xadrez-console\bin\Debug\xadrez-console.exe.config
+C:\www\Udemy\CursoUdemy\Xadrez-Udemy\xadrez-console\xadrez-console\bin\Debug\xadrez-console.exe
+C:\www\Udemy\CursoUdemy\Xadrez-Udemy\xadrez-console\xadrez-console\bin\Debug\xadrez-console.pdb
+C:\www\Udemy\CursoUdemy\Xadrez-Udemy\xadrez-console\xadrez-console\obj\Debug\xadrez-console.csproj.AssemblyReference.cache
+C:\www\Udemy\CursoUdemy\Xadrez-Udemy\xadrez-console\xadrez-console\obj\Debug\xadrez-console.csproj.SuggestedBindingRedirects.cache
+C:\www\Udemy\CursoUdemy\Xadrez-Udemy\xadrez-console\xadrez-console\obj\Debug\xadrez-console.csproj.CoreCompileInputs.cache
+C:\www\Udemy\CursoUdemy\Xadrez-Udemy\xadrez-console\xadrez-console\obj\Debug\xadrez-console.exe
+C:\www\Udemy\CursoUdemy\Xadrez-Udemy\xadrez-console\xadrez-console\obj\Debug\xadrez-console.pdb
