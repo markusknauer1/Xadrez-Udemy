@@ -50,6 +50,8 @@
     <Compile Include="anotações\Xadrez - Começando a implementar um método que imprime o tabuleiro.cs" />
     <Compile Include="anotações\Xadrez - Criando a primeira classe do projeto.cs" />
     <Compile Include="anotações\Xadrez - Melhorando a impressão do tabuleiro.cs" />
+    <Compile Include="anotações\Xadrez - Preparando o programa para testes iniciais.cs" />
+    <Compile Include="xadrez\PartidaDeXadrez.cs" />
     <Compile Include="xadrez\Peao.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
