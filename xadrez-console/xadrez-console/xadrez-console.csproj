@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="anotações\Xadrez - Começando a implementar o tabuleiro.cs" />
+    <Compile Include="anotações\Xadrez - Começando a implementar um método que imprime o tabuleiro.cs" />
     <Compile Include="anotações\Xadrez - Criando a primeira classe do projeto.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
