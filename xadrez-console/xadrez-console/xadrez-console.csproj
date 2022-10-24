@@ -52,6 +52,7 @@
     <Compile Include="anotações\Xadrez - Implementando os movimentos possíveis do Torre .cs" />
     <Compile Include="anotações\Xadrez - Implementando os movimentos possíveis do Rei.cs" />
     <Compile Include="anotações\Xadrez - Melhorando a impressão do tabuleiro.cs" />
+    <Compile Include="anotações\Xadrez - passagem de turno e.cs" />
     <Compile Include="anotações\Xadrez - Preparando o programa para testes iniciais.cs" />
     <Compile Include="anotações\Xadrez - Testes iniciais com movimentos possiveis das peças.cs" />
     <Compile Include="xadrez\PartidaDeXadrez.cs" />
