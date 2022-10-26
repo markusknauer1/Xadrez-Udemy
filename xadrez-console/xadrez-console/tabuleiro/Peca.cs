@@ -41,7 +41,8 @@ namespace tabuleiro
             }
             return false;
         }
-        public bool podeMoverPara(Posicao pos)
+        // public bool podeMoverPara(Posicao pos) --> antigo
+        public bool movimentoPossivel(Posicao pos)
         {
             return movimentosPossiveis()[pos.linha, pos.coluna];
         }
