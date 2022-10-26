@@ -49,6 +49,7 @@
     <Compile Include="anotações\Xadrez - Começando a implementar o tabuleiro.cs" />
     <Compile Include="anotações\Xadrez - Começando a implementar um método que imprime o tabuleiro.cs" />
     <Compile Include="anotações\Xadrez - Criando a primeira classe do projeto.cs" />
+    <Compile Include="anotações\Xadrez - Implementando a lógica de xeque.cs" />
     <Compile Include="anotações\Xadrez - Implementando os movimentos possíveis do Torre .cs" />
     <Compile Include="anotações\Xadrez - Implementando os movimentos possíveis do Rei.cs" />
     <Compile Include="anotações\Xadrez - ImplementandoUmControleDePeçasCapturadas - .cs" />
@@ -69,7 +70,7 @@
     <Compile Include="xadrez\Bispo.cs" />
     <Compile Include="xadrez\Cavalo.cs" />
     <Compile Include="xadrez\PosicaoXadrez.cs" />
-    <Compile Include="xadrez\Rainha.cs" />
+    <Compile Include="xadrez\Dama.cs" />
     <Compile Include="xadrez\Rei.cs" />
     <Compile Include="xadrez\Torre.cs" />
   </ItemGroup>

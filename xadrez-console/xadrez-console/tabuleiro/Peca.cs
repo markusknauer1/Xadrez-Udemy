@@ -8,7 +8,7 @@ namespace tabuleiro
 
         public Cor cor { get; protected set; }
         public int qteMovimentos { get; protected set; }
-        public Tabuleiro tab{ get; protected set; }
+        public Tabuleiro tab { get; protected set; }
 
         public Peca(Tabuleiro tab, Cor cor)
         {
@@ -21,13 +21,17 @@ namespace tabuleiro
         {
             qteMovimentos++;
         }
+        public void decrementarQteMovimentos()
+        {
+            qteMovimentos--;
+        }
 
         public bool existeMovimentosPossiveis()
         {
             bool[,] mat = movimentosPossiveis();
-            for(int i = 0; i < tab.linhas; i++)
+            for (int i = 0; i < tab.linhas; i++)
             {
-                for(int j = 0; j < tab.colunas; j++)
+                for (int j = 0; j < tab.colunas; j++)
                 {
                     if (mat[i, j])
                     {
@@ -45,7 +49,7 @@ namespace tabuleiro
 
         // INICIO DAS REGRAS DE MOVIMENTOS
         public abstract bool[,] movimentosPossiveis();
-       
+
 
 
     }

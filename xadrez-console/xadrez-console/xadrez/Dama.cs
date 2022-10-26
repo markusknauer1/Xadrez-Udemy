@@ -4,14 +4,14 @@ using tabuleiro;
 
 namespace xadrez
 {
-    class Cavalo : Peca
+    class Dama : Peca
     {
-        public Cavalo(Tabuleiro tab, Cor cor) : base(tab, cor)
+        public Dama(Tabuleiro tab, Cor cor) : base(tab, cor)
         {
         }
         public override string ToString()
         {
-            return "C";
+            return "D";
         }
         private bool podeMover(Posicao pos)
         {
