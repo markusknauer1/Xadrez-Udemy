@@ -30,5 +30,11 @@
         -   estruturas de dados aplicadas:
             *   Matriz
 
+    //  Testando as jogadas especiais roque pequeno e roque grande
+        -   Técnicas de orientação a objeto aplicadas:
+            *   Palavra this;
+            
+        
+        
         -   Commit:" Jogada especial - Roque pequeno e Roque grande "
 */  
