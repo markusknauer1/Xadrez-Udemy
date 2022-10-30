@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="anotações\Xadez -  ComeçandoAImplementarAJogadaEspecialEnPassant.cs" />
     <Compile Include="anotações\Xadrez - Adicionando as demais peças.cs" />
     <Compile Include="anotações\Xadrez - ComeçandoAImplementarAJogadaEspecialRoquePequeno.cs" />
     <Compile Include="anotações\Xadrez - Criando a classe PosicaoXadrez.cs" />
